@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("hello");
         System.out.println("helloWorld");
         System.out.println("hi");
+        System.out.println("push");
     }
 }
